@@ -1,2 +1,2 @@
 Hi, I’m @MariaShuruiMa ❤️
-I’m interested in Python an Java.
+I’m interested in Python and Java.
